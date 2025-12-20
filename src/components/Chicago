@@ -1,0 +1,20 @@
+/*import React from 'react';
+import chicagoImage from '../images/chicagoImage.jpg';
+
+function Chicago() {
+  return (
+    <section className="chicago container">
+      <h2>About Little Lemon Chicago</h2>
+      <div className="chicago-content">
+        <img src={chicagoImage} alt="Little Lemon Chicago" />
+        <p>
+          Little Lemon started in Chicago with a passion for fresh Mediterranean
+          cuisine. Our mission is to bring vibrant flavors and healthy dishes
+          to the local community.
+        </p>
+      </div>
+    </section>
+  );
+}
+
+export default Chicago;*/
